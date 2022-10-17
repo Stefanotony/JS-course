@@ -1,0 +1,13 @@
+body{
+
+    background-color: rgb(168, 168, 168);
+    position: absolute;
+}
+
+.box{
+    height: 150px;
+    width: 150px;
+    margin: 50%;
+    border: 2px solid black;
+    
+}
